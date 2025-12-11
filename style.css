@@ -1,0 +1,91 @@
+/* ===== Wrapper ===== */
+#wrapper {
+    width: 1000px;
+    background: rgb(255, 255, 255);
+    margin: 10px auto;
+    padding: 10px;
+    overflow: hidden;
+}
+
+#menu {
+    height: 35px;
+    width: 1020px;
+    background: rgb(229, 247, 247);
+    float: left;
+    margin-bottom: 5px;
+    display: flex;
+    box-shadow: 10%;
+    color: rgb(27, 24, 21);
+    align-items: center;
+    box-shadow: 0 10px 10px;
+    
+}
+
+
+#nav1 {
+    height: 20px;
+    width: 990px;
+    background: maroon;
+    color: antiquewhite;
+    float: left;
+    margin: 0 0;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+#nav2 {
+    height: 70px;
+    width: 990px;
+    background: rgb(242, 242, 225);
+    float: left;
+    margin: 0% 0;
+    border-radius: 5px;
+    padding-left: 15px;
+   box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+
+}
+#berita1 {
+    height:300px ;
+    width: 175px;
+    background: #e5e9d4;
+    padding-top:10px;
+    float: left;
+    margin-top: 15px;
+  box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+#berita2 {
+    height:300px ;
+    width: 550px;
+    background: #dfd486;
+    padding-top:10px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10;
+   box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+   text-align: center;
+}
+#berita3 {
+    height:455px ;
+    width: 250px;
+    background: #e5e9d4;
+    padding-top:10px;
+    float: right;
+    margin-top: 15px;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    text-align:center;
+}
+#footer{
+    background: #b1341b;
+    color: #293205;
+    float: left;
+    text-align: center;
+    height: 150px;
+    width: 735px;
+    border-radius: 10px;
+    margin-top: 5;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+}
+
